@@ -1,0 +1,14 @@
+C:\Users\pepe\source\repos\CodeInterviews\CodeInterviews\obj\Debug\CodeInterviews.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\CodeInterviews\CodeInterviews\bin\Debug\CodeInterviews.exe.config
+C:\Users\pepe\source\repos\CodeInterviews\CodeInterviews\bin\Debug\CodeInterviews.exe
+C:\Users\pepe\source\repos\CodeInterviews\CodeInterviews\bin\Debug\CodeInterviews.pdb
+C:\Users\pepe\source\repos\CodeInterviews\CodeInterviews\obj\Debug\CodeInterviews.exe
+C:\Users\pepe\source\repos\CodeInterviews\CodeInterviews\obj\Debug\CodeInterviews.pdb
+C:\Users\pepe\source\repos\CodeInterviews\CodeInterviews\obj\Debug\CodeInterviews.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\CodeInterviews\bin\Debug\CodeInterviews.exe.config
+C:\Users\pepe\source\repos\CodeInterviews\bin\Debug\CodeInterviews.exe
+C:\Users\pepe\source\repos\CodeInterviews\bin\Debug\CodeInterviews.pdb
+C:\Users\pepe\source\repos\CodeInterviews\obj\Debug\CodeInterviews.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\CodeInterviews\obj\Debug\CodeInterviews.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\CodeInterviews\obj\Debug\CodeInterviews.exe
+C:\Users\pepe\source\repos\CodeInterviews\obj\Debug\CodeInterviews.pdb

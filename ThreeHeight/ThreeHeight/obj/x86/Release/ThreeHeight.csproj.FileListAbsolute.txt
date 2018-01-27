@@ -1,0 +1,4 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\ThreeHeight\bin\Release\ThreeHeight.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\ThreeHeight\bin\Release\ThreeHeight.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\ThreeHeight\obj\x86\Release\ThreeHeight.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\ThreeHeight\obj\x86\Release\ThreeHeight.pdb

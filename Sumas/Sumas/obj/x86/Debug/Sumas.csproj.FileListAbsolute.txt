@@ -1,0 +1,8 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\Sumas\bin\Debug\Sumas.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\Sumas\bin\Debug\Sumas.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\Sumas\obj\x86\Debug\Sumas.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\Sumas\obj\x86\Debug\Sumas.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\Sumas\Sumas\obj\x86\Debug\Sumas.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\Sumas\Sumas\obj\x86\Debug\Sumas.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\Sumas\Sumas\bin\Debug\Sumas.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\Sumas\Sumas\bin\Debug\Sumas.pdb

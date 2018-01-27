@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\TestArrayList\TestArrayList\bin\Debug\TestArrayList.exe.config
+C:\Users\pepe\source\repos\TestArrayList\TestArrayList\bin\Debug\TestArrayList.exe
+C:\Users\pepe\source\repos\TestArrayList\TestArrayList\bin\Debug\TestArrayList.pdb
+C:\Users\pepe\source\repos\TestArrayList\TestArrayList\obj\Debug\TestArrayList.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\TestArrayList\TestArrayList\obj\Debug\TestArrayList.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\TestArrayList\TestArrayList\obj\Debug\TestArrayList.exe
+C:\Users\pepe\source\repos\TestArrayList\TestArrayList\obj\Debug\TestArrayList.pdb

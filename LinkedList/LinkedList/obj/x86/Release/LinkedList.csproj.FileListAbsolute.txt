@@ -1,0 +1,8 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\LinkedList\bin\Release\LinkedList.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\LinkedList\bin\Release\LinkedList.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\LinkedList\obj\x86\Release\LinkedList.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\LinkedList\obj\x86\Release\LinkedList.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\LinkedList\LinkedList\obj\x86\Release\LinkedList.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\LinkedList\LinkedList\obj\x86\Release\LinkedList.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\LinkedList\LinkedList\bin\Release\LinkedList.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\LinkedList\LinkedList\bin\Release\LinkedList.pdb

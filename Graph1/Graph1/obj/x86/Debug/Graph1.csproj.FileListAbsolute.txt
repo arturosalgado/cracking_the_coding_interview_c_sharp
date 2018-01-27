@@ -1,0 +1,10 @@
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\bin\Debug\Graph1.exe
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\bin\Debug\Graph1.pdb
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\obj\x86\Debug\Graph1.exe
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\obj\x86\Debug\Graph1.pdb
+C:\Users\pepe\source\repos\Graph1\Graph1\bin\Debug\Graph1.exe
+C:\Users\pepe\source\repos\Graph1\Graph1\bin\Debug\Graph1.pdb
+C:\Users\pepe\source\repos\Graph1\Graph1\obj\x86\Debug\Graph1.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Graph1\Graph1\obj\x86\Debug\Graph1.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Graph1\Graph1\obj\x86\Debug\Graph1.exe
+C:\Users\pepe\source\repos\Graph1\Graph1\obj\x86\Debug\Graph1.pdb

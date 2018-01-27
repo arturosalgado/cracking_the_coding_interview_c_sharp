@@ -1,0 +1,9 @@
+C:\Users\pepe\source\repos\laptop\laptop\bin\Debug\laptop.exe.config
+C:\Users\pepe\source\repos\laptop\laptop\bin\Debug\laptop.exe
+C:\Users\pepe\source\repos\laptop\laptop\bin\Debug\laptop.pdb
+C:\Users\pepe\source\repos\laptop\laptop\obj\Debug\laptop.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\laptop\laptop\obj\Debug\laptop.Properties.Resources.resources
+C:\Users\pepe\source\repos\laptop\laptop\obj\Debug\laptop.csproj.GenerateResource.Cache
+C:\Users\pepe\source\repos\laptop\laptop\obj\Debug\laptop.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\laptop\laptop\obj\Debug\laptop.exe
+C:\Users\pepe\source\repos\laptop\laptop\obj\Debug\laptop.pdb

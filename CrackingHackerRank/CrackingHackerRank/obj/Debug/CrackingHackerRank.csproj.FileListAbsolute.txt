@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\CrackingHackerRank\CrackingHackerRank\bin\Debug\CrackingHackerRank.exe.config
+C:\Users\pepe\source\repos\CrackingHackerRank\CrackingHackerRank\bin\Debug\CrackingHackerRank.exe
+C:\Users\pepe\source\repos\CrackingHackerRank\CrackingHackerRank\bin\Debug\CrackingHackerRank.pdb
+C:\Users\pepe\source\repos\CrackingHackerRank\CrackingHackerRank\obj\Debug\CrackingHackerRank.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\CrackingHackerRank\CrackingHackerRank\obj\Debug\CrackingHackerRank.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\CrackingHackerRank\CrackingHackerRank\obj\Debug\CrackingHackerRank.exe
+C:\Users\pepe\source\repos\CrackingHackerRank\CrackingHackerRank\obj\Debug\CrackingHackerRank.pdb

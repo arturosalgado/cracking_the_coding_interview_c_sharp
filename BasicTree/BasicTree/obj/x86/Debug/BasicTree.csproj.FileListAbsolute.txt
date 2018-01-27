@@ -1,0 +1,11 @@
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\bin\Debug\BasicTree.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\bin\Debug\BasicTree.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\obj\x86\Debug\BasicTree.csprojResolveAssemblyReference.cache
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\obj\x86\Debug\BasicTree.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\obj\x86\Debug\BasicTree.pdb
+C:\Users\pepe\source\repos\BasicTree\BasicTree\bin\Debug\BasicTree.exe
+C:\Users\pepe\source\repos\BasicTree\BasicTree\bin\Debug\BasicTree.pdb
+C:\Users\pepe\source\repos\BasicTree\BasicTree\obj\x86\Debug\BasicTree.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\BasicTree\BasicTree\obj\x86\Debug\BasicTree.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\BasicTree\BasicTree\obj\x86\Debug\BasicTree.exe
+C:\Users\pepe\source\repos\BasicTree\BasicTree\obj\x86\Debug\BasicTree.pdb

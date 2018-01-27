@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\Window\Window\bin\Debug\Window.exe.config
+C:\Users\pepe\source\repos\Window\Window\bin\Debug\Window.exe
+C:\Users\pepe\source\repos\Window\Window\bin\Debug\Window.pdb
+C:\Users\pepe\source\repos\Window\Window\obj\Debug\Window.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Window\Window\obj\Debug\Window.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Window\Window\obj\Debug\Window.exe
+C:\Users\pepe\source\repos\Window\Window\obj\Debug\Window.pdb

@@ -1,0 +1,4 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\SimpleScanner\bin\Release\SimpleScanner.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\SimpleScanner\bin\Release\SimpleScanner.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\SimpleScanner\obj\x86\Release\SimpleScanner.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\SimpleScanner\obj\x86\Release\SimpleScanner.pdb

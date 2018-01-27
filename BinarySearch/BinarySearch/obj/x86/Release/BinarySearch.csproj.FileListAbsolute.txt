@@ -1,0 +1,4 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\bin\Release\BinarySearch.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\bin\Release\BinarySearch.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\obj\x86\Release\BinarySearch.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\BinarySearch\obj\x86\Release\BinarySearch.pdb

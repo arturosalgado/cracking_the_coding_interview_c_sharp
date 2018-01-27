@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\AmazonTest\AmazonTest\bin\Debug\AmazonTest.exe.config
+C:\Users\pepe\source\repos\AmazonTest\AmazonTest\bin\Debug\AmazonTest.exe
+C:\Users\pepe\source\repos\AmazonTest\AmazonTest\bin\Debug\AmazonTest.pdb
+C:\Users\pepe\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.exe
+C:\Users\pepe\source\repos\AmazonTest\AmazonTest\obj\Debug\AmazonTest.pdb

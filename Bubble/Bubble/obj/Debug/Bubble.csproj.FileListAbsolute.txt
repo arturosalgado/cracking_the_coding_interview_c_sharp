@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\Bubble\Bubble\bin\Debug\Bubble.exe.config
+C:\Users\pepe\source\repos\Bubble\Bubble\bin\Debug\Bubble.exe
+C:\Users\pepe\source\repos\Bubble\Bubble\bin\Debug\Bubble.pdb
+C:\Users\pepe\source\repos\Bubble\Bubble\obj\Debug\Bubble.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\Bubble\Bubble\obj\Debug\Bubble.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\Bubble\Bubble\obj\Debug\Bubble.exe
+C:\Users\pepe\source\repos\Bubble\Bubble\obj\Debug\Bubble.pdb

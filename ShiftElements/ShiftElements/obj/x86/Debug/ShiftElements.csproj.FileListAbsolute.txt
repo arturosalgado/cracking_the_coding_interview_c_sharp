@@ -1,0 +1,4 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\ShiftElements\bin\Debug\ShiftElements.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\ShiftElements\bin\Debug\ShiftElements.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\ShiftElements\obj\x86\Debug\ShiftElements.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\ShiftElements\obj\x86\Debug\ShiftElements.pdb

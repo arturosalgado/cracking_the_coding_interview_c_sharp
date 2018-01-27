@@ -1,0 +1,4 @@
+C:\Users\pepe\documents\visual studio 2010\Projects\BitWiseOperations\BitWiseOperations\bin\Debug\BitWiseOperations.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\BitWiseOperations\BitWiseOperations\bin\Debug\BitWiseOperations.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\BitWiseOperations\BitWiseOperations\obj\x86\Debug\BitWiseOperations.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\BitWiseOperations\BitWiseOperations\obj\x86\Debug\BitWiseOperations.pdb

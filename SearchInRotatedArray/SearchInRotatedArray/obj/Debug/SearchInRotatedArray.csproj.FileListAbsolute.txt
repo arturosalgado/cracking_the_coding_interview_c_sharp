@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\SearchInRotatedArray\SearchInRotatedArray\bin\Debug\SearchInRotatedArray.exe.config
+C:\Users\pepe\source\repos\SearchInRotatedArray\SearchInRotatedArray\bin\Debug\SearchInRotatedArray.exe
+C:\Users\pepe\source\repos\SearchInRotatedArray\SearchInRotatedArray\bin\Debug\SearchInRotatedArray.pdb
+C:\Users\pepe\source\repos\SearchInRotatedArray\SearchInRotatedArray\obj\Debug\SearchInRotatedArray.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\SearchInRotatedArray\SearchInRotatedArray\obj\Debug\SearchInRotatedArray.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\SearchInRotatedArray\SearchInRotatedArray\obj\Debug\SearchInRotatedArray.exe
+C:\Users\pepe\source\repos\SearchInRotatedArray\SearchInRotatedArray\obj\Debug\SearchInRotatedArray.pdb

@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\SecondLargest\SecondLargest\bin\Debug\SecondLargest.exe.config
+C:\Users\pepe\source\repos\SecondLargest\SecondLargest\bin\Debug\SecondLargest.exe
+C:\Users\pepe\source\repos\SecondLargest\SecondLargest\bin\Debug\SecondLargest.pdb
+C:\Users\pepe\source\repos\SecondLargest\SecondLargest\obj\Debug\SecondLargest.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\SecondLargest\SecondLargest\obj\Debug\SecondLargest.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\SecondLargest\SecondLargest\obj\Debug\SecondLargest.exe
+C:\Users\pepe\source\repos\SecondLargest\SecondLargest\obj\Debug\SecondLargest.pdb

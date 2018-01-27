@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\LapTops2\LapTops2\bin\Debug\LapTops2.exe.config
+C:\Users\pepe\source\repos\LapTops2\LapTops2\bin\Debug\LapTops2.exe
+C:\Users\pepe\source\repos\LapTops2\LapTops2\bin\Debug\LapTops2.pdb
+C:\Users\pepe\source\repos\LapTops2\LapTops2\obj\Debug\LapTops2.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\LapTops2\LapTops2\obj\Debug\LapTops2.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\LapTops2\LapTops2\obj\Debug\LapTops2.exe
+C:\Users\pepe\source\repos\LapTops2\LapTops2\obj\Debug\LapTops2.pdb

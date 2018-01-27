@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\slidingwindow\slidingwindow\bin\Debug\slidingwindow.exe.config
+C:\Users\pepe\source\repos\slidingwindow\slidingwindow\bin\Debug\slidingwindow.exe
+C:\Users\pepe\source\repos\slidingwindow\slidingwindow\bin\Debug\slidingwindow.pdb
+C:\Users\pepe\source\repos\slidingwindow\slidingwindow\obj\Debug\slidingwindow.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\slidingwindow\slidingwindow\obj\Debug\slidingwindow.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\slidingwindow\slidingwindow\obj\Debug\slidingwindow.exe
+C:\Users\pepe\source\repos\slidingwindow\slidingwindow\obj\Debug\slidingwindow.pdb

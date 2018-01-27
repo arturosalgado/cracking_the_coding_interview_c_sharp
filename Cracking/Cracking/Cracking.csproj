@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{CB39A9A3-89E3-4EDA-92DB-1CE1827831F8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Cracking</RootNamespace>
+    <AssemblyName>Cracking</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ArrayLowHighIndex.cs" />
+    <Compile Include="CompressString.cs" />
+    <Compile Include="DetectLoopStartInCycle.cs" />
+    <Compile Include="FindMaxSlidingWindow.cs" />
+    <Compile Include="Graph.cs" />
+    <Compile Include="IsLinkedListPalindromeIterative.cs" />
+    <Compile Include="LinkedList1.cs" />
+    <Compile Include="ListOfStacks.cs" />
+    <Compile Include="Lists.cs" />
+    <Compile Include="MatrixRotation.cs" />
+    <Compile Include="Node.cs" />
+    <Compile Include="NodeFactory.cs" />
+    <Compile Include="NodeIntersection.cs" />
+    <Compile Include="PartitionAroundPivot.cs" />
+    <Compile Include="PartitionLinkedList.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Programs.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RemoveDups.cs" />
+    <Compile Include="ReverseSentence.cs" />
+    <Compile Include="RotateArray.cs" />
+    <Compile Include="SearchRotatedArray.cs" />
+    <Compile Include="SlowFastRunner.cs" />
+    <Compile Include="SmallestCommonNumberInArrays.cs" />
+    <Compile Include="StringRotation.cs" />
+    <Compile Include="TestLinkedList.cs" />
+    <Compile Include="Tests.cs" />
+    <Compile Include="Urilify.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="Vertex.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

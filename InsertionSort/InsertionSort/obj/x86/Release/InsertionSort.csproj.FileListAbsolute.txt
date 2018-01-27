@@ -1,0 +1,4 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\InsertionSort\bin\Release\InsertionSort.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\InsertionSort\bin\Release\InsertionSort.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\InsertionSort\obj\x86\Release\InsertionSort.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\InsertionSort\obj\x86\Release\InsertionSort.pdb

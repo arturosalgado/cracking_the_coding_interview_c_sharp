@@ -1,0 +1,4 @@
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\bin\Release\BasicTree.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\bin\Release\BasicTree.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\obj\x86\Release\BasicTree.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\BasicTree\BasicTree\obj\x86\Release\BasicTree.pdb

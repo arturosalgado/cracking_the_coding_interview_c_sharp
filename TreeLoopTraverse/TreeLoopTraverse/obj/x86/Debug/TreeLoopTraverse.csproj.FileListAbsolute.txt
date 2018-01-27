@@ -1,0 +1,4 @@
+C:\Users\pepe\documents\visual studio 2010\Projects\TreeLoopTraverse\TreeLoopTraverse\bin\Debug\TreeLoopTraverse.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\TreeLoopTraverse\TreeLoopTraverse\bin\Debug\TreeLoopTraverse.pdb
+C:\Users\pepe\documents\visual studio 2010\Projects\TreeLoopTraverse\TreeLoopTraverse\obj\x86\Debug\TreeLoopTraverse.exe
+C:\Users\pepe\documents\visual studio 2010\Projects\TreeLoopTraverse\TreeLoopTraverse\obj\x86\Debug\TreeLoopTraverse.pdb

@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\CountNegativesInArray\CountNegativesInArray\bin\Debug\CountNegativesInArray.exe.config
+C:\Users\pepe\source\repos\CountNegativesInArray\CountNegativesInArray\bin\Debug\CountNegativesInArray.exe
+C:\Users\pepe\source\repos\CountNegativesInArray\CountNegativesInArray\bin\Debug\CountNegativesInArray.pdb
+C:\Users\pepe\source\repos\CountNegativesInArray\CountNegativesInArray\obj\Debug\CountNegativesInArray.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\CountNegativesInArray\CountNegativesInArray\obj\Debug\CountNegativesInArray.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\CountNegativesInArray\CountNegativesInArray\obj\Debug\CountNegativesInArray.exe
+C:\Users\pepe\source\repos\CountNegativesInArray\CountNegativesInArray\obj\Debug\CountNegativesInArray.pdb

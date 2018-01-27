@@ -1,0 +1,4 @@
+C:\Users\pepe\AppData\Local\Temporary Projects\SelectionSort\bin\Release\SelectionSort.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\SelectionSort\bin\Release\SelectionSort.pdb
+C:\Users\pepe\AppData\Local\Temporary Projects\SelectionSort\obj\x86\Release\SelectionSort.exe
+C:\Users\pepe\AppData\Local\Temporary Projects\SelectionSort\obj\x86\Release\SelectionSort.pdb

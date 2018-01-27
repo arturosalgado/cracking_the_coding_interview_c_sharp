@@ -1,0 +1,7 @@
+C:\Users\pepe\source\repos\primer\primer\bin\Debug\primer.exe.config
+C:\Users\pepe\source\repos\primer\primer\bin\Debug\primer.exe
+C:\Users\pepe\source\repos\primer\primer\bin\Debug\primer.pdb
+C:\Users\pepe\source\repos\primer\primer\obj\Debug\primer.csprojResolveAssemblyReference.cache
+C:\Users\pepe\source\repos\primer\primer\obj\Debug\primer.csproj.CoreCompileInputs.cache
+C:\Users\pepe\source\repos\primer\primer\obj\Debug\primer.exe
+C:\Users\pepe\source\repos\primer\primer\obj\Debug\primer.pdb

@@ -1,0 +1,7 @@
+c:\users\pepe\source\repos\Cracking\Cracking\bin\Debug\Cracking.exe.config
+c:\users\pepe\source\repos\Cracking\Cracking\bin\Debug\Cracking.exe
+c:\users\pepe\source\repos\Cracking\Cracking\bin\Debug\Cracking.pdb
+c:\users\pepe\source\repos\Cracking\Cracking\obj\Debug\Cracking.csprojResolveAssemblyReference.cache
+c:\users\pepe\source\repos\Cracking\Cracking\obj\Debug\Cracking.csproj.CoreCompileInputs.cache
+c:\users\pepe\source\repos\Cracking\Cracking\obj\Debug\Cracking.exe
+c:\users\pepe\source\repos\Cracking\Cracking\obj\Debug\Cracking.pdb

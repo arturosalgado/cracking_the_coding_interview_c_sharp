@@ -1,0 +1,4 @@
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\bin\Release\Graph1.exe
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\bin\Release\Graph1.pdb
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\obj\x86\Release\Graph1.exe
+C:\Users\pepe\Documents\Visual Studio 2010\Projects\Graph1\Graph1\obj\x86\Release\Graph1.pdb
